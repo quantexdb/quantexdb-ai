@@ -23,3 +23,4 @@ Monday - Saturday
 website:https://quantexdb.com/
 Linkedin:https://www.linkedin.com/company/143951269/admin/dashboard/
 instagram:https://www.instagram.com/quantexdb123/
+https://www.facebook.com/dinesh.patel.330
